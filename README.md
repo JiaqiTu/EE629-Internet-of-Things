@@ -3,7 +3,7 @@ The Internet of things
 
 * web camera monitor
 
-I want to set up a camera module to take photos or stream video and users can keep an eye on maybe their pets.
+I bought a Raspberry Pi camera module and want to set up to take photos or stream video and users can keep an eye on maybe their pets.
 
 * web temperature monitor
 
