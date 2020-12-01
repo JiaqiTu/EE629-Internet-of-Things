@@ -1,2 +1,2 @@
-# LOT
+# IoT
 The Internet of things
