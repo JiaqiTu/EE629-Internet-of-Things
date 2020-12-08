@@ -21,7 +21,7 @@
 
  I also bought a DHT11 and want to put temperature and humidity on the same page.
 
-<img src="https://github.com/JiaqiTu/EE629-IOT/blob/master/images/livevideo2.png" width = "300" height = "300" alt="2" align=center />
+<img src="https://github.com/JiaqiTu/EE629-IOT/blob/master/images/livevideo2.png" width = "500" height = "300" alt="2" align=center />
 
 
 
