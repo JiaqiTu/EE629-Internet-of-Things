@@ -1,7 +1,7 @@
 # IoT
 The Internet of things
 
-* Web camera monitor
+* Real-time video streaming based on Flusk
 
 I bought a Raspberry Pi camera module and want to set up to take photos or stream video and users can keep an eye on maybe their pets.
 
