@@ -2,7 +2,7 @@
 
 **Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server.
 
-**File location:** Flask uses the directory ```app.py``` located as the general directory. By default, static in the static directory, and templates in the templates directory.
+**File location:** Flask uses the directory ```app.py``` located as the general directory. By default, static valuable is in the static directory, and template is in the templates directory.
 
                ├── camera_pi.py
                ├── app.py
