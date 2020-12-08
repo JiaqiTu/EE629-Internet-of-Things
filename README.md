@@ -19,7 +19,7 @@
 
 **Temperature and humidity monitor:**
 
- I also bought a DHT11 and want to put temperature and humidity on the Web page.
+ I also bought a DHT11 and want to put temperature and humidity on the website.
 
 <img src="https://github.com/JiaqiTu/EE629-IOT/blob/master/images/livevideo2.png" width = "400" height = "300" alt="2" align=center />
 
