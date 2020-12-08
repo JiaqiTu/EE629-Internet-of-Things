@@ -1,5 +1,6 @@
 # Real-time video streaming based on Flusk
-The Internet of things
+
+In this project, I use a normal Raspberry Pi camera and stream the video to the Web page.
 
 * File location
 
