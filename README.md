@@ -19,7 +19,7 @@
 
 **Temperature and humidity monitor:**
 
- I also bought a DHT11 and want to put temperature and humidity on the same page but it occoured errors I didn't figure it out.
+ I also bought a DHT11 and want to put temperature and humidity on the same page.
 
 
 
