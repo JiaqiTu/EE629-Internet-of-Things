@@ -2,7 +2,7 @@
 
 **Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server. I also bought a DHT11 and want to put temperature and humidity on the same page but it occoured errors I didn't figure it out.
 
-**File location:**
+**File location:** Flask uses the directory ```app.py``` located as the general directory. By default, static in the static directory, and templates in the templates directory.
 
                ├── camera_pi.py
                ├── app.py
