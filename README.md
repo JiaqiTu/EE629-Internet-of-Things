@@ -1,11 +1,11 @@
 # EE629 Real-time video streaming based on Flusk
 
-**Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page.
+**Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server. I also bought a DHT11 and want to put temperature and humidity on the same page but it occoured errors I didn't figure it out.
 
 **File location:**
 
                ├── camera_pi.py
-               ├── appCam.py
+               ├── app.py
                ├── templates
                |     ├── index.html
                └── static
@@ -13,6 +13,7 @@
 
 
 **Video streaming server created:**
+
 <img src="https://github.com/JiaqiTu/EE629-IOT/blob/master/images/live_stream.png" width = "300" height = "200" alt="1" align=center />
 
 
