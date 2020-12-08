@@ -1,6 +1,6 @@
 # EE629 Real-time video streaming based on Flusk
 
-**Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server. I also bought a DHT11 and want to put temperature and humidity on the same page but it occoured errors I didn't figure it out.
+**Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server.
 
 **File location:** Flask uses the directory ```app.py``` located as the general directory. By default, static in the static directory, and templates in the templates directory.
 
@@ -19,8 +19,8 @@
 
 **Temperature and humidity monitor:**
 
-rpi_tempmon.py is a python script to display the CPU & GPU temperature of Raspberry Pi. I want to use rpi_tempmon.py to generate the real time temperatures & graphics and put on to the website. 
-https://github.com/gavinlyonsrepo/raspberrypi_tempmon
+ I also bought a DHT11 and want to put temperature and humidity on the same page but it occoured errors I didn't figure it out.
+
 ```
 sudo pip3 install rpi_tempmon.py
 ```
