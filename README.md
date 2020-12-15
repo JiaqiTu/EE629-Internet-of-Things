@@ -22,6 +22,7 @@
  I also bought a DHT11 and in ```project_improvement``` directory I put temperature and humidity on the website.
  
  Install the DHT Package:
+ 
  ```sudo pip install Adafruit_Python_DHT```
  
  Result:
