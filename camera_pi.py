@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 #  camera_pi.py
-#  
+#  https://github.com/miguelgrinberg/flask-video-streaming
 #  
 #  
 import time
