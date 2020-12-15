@@ -20,6 +20,16 @@
 **Temperature and humidity monitor:**
 
  I also bought a DHT11 and in ```project_improvement``` directory I put temperature and humidity on the website.
+ 
+ Install the DHT Package:
+
+ ```sudo pip install Adafruit_Python_DHT```
+ 
+ Result:
+```
+root@localhost:~# sudo python AdafruitDHT.py 11 4
+Temp=25.0   Humidity=46%
+```
 
 <img src="https://github.com/JiaqiTu/EE629-IOT/blob/master/images/livevideo2.png" width = "400" height = "300" alt="2" align=center />
 
