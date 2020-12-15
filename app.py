@@ -3,8 +3,18 @@
 
 from flask import Flask, render_template, Response
 from camera_pi import Camera
+
 app = Flask(__name__)
 
+def getDHTdata():		
+	DHT11Sensor = Adafruit_DHT.DHT11
+	DHTpin = 4
+	hum, temp = Adafruit_DHT.read_retry(DHT11Sensor, DHTpin)
+	
+	if hum is not None and temp is not None:
+		hum = round(hum)
+		temp = round(temp, 1)
+	return temp, hum
 
 @app.route('/')
 def index():
