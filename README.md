@@ -1,4 +1,4 @@
-# EE629 Real-time Video Streaming Based on Flask
+# Project: Real-time Video Streaming Based on Flask
 
 **Description:** In this project, I use a normal Raspberry Pi camera and stream the video to the Web page which implemented by a web server.
 
